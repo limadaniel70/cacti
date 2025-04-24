@@ -89,7 +89,7 @@ sudo systemctl restart snmpd
 
 Acesse o Cacti pelo navegador usando a seguinte url: `http://<ip_ou_hostname>/cacti`
 
-## Configurando o cron
+## 7. Configurando o cron
 
 Essa linha é uma entrada de cron que agenda a execução periódica do script de coleta (poller) do Cacti.
 
